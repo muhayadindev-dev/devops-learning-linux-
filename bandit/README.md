@@ -38,7 +38,9 @@ I recommend attempting each challenge independently before reading the walkthrou
 
 ## Levels
 
-**Completed: Level 0 → 1 through Level 15 → 16**
+**Completed: Levels 0–15 (16 challenges). Level 16 has not been completed.**
+
+The arrows in the links below show the next level unlocked after each completed challenge. **Level 15 → Level 16** documents completing Level 15, not completing Level 16.
 
 <details>
 <summary>View completed levels</summary>

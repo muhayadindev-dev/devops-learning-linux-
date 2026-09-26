@@ -6,7 +6,7 @@ My practical Linux learning through hands-on command-line work, OverTheWire Band
 
 ### 🧩 [OverTheWire Bandit Walkthroughs](bandit/README.md)
 
-16 documented challenges covering **Level 0 → 1 through Level 15 → 16**.
+**Bandit Levels 0–15 completed:** 16 challenges documented. Level 16 has not been completed.
 
 Each walkthrough explains the problem, the commands I used, why they worked and what I learned.
 
