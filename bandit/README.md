@@ -1,4 +1,6 @@
-# OverTheWire: Bandit
+# OverTheWire Bandit Walkthroughs
+
+**Section:** Bandit Walkthroughs · [Repository Home](../README.md) · [Linux Cheat Sheet](../linux-cheatsheet/README.md)
 
 A record of my progress through the OverTheWire Bandit challenges, where I put my Linux fundamentals to the test through practical command-line exercises.
 

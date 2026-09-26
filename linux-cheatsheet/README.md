@@ -1,5 +1,7 @@
 # Linux Cheat Sheet
 
+**Section:** Linux Cheat Sheet · [Repository Home](../README.md) · [Bandit Walkthroughs](../bandit/README.md)
+
 My quick reference for Linux command-line problems, built around the way I approached OverTheWire Bandit Level 0 → 1 through Level 15 → 16. The first part gives me reusable command patterns; the last part is a compact answer key for all 16 challenges I've completed.
 
 How to read it:

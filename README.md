@@ -1,23 +1,19 @@
 # DevOps Learning: Linux
 
-A record of my practical Linux learning through hands-on exercises, OverTheWire Bandit challenges and command-line reference notes.
+My practical Linux learning through hands-on command-line work, OverTheWire Bandit challenges and reusable reference notes.
 
-## Start Here
+## Explore
 
-### [OverTheWire Bandit Walkthroughs](bandit/README.md)
+### 🧩 [OverTheWire Bandit Walkthroughs](bandit/README.md)
 
-My documented solutions for 16 completed challenges, from Level 0 → 1 through Level 15 → 16. Each walkthrough covers the problem, commands used and lessons learned.
+16 documented challenges covering **Level 0 → 1 through Level 15 → 16**.
 
-### [Linux Cheat Sheet](linux-cheatsheet/README.md)
+Each walkthrough explains the problem, the commands I used, why they worked and what I learned.
 
-My practical Linux command reference, with reusable command patterns, examples, explanations and a compact answer key for all 16 completed Bandit challenges.
+### 📘 [Linux Cheat Sheet](linux-cheatsheet/README.md)
 
-## Repository Structure
+My practical Linux command reference with reusable patterns, examples, explanations and a compact answer key for the 16 Bandit challenges I've completed.
 
-| Location | Purpose |
-|---|---|
-| `README.md` | Overview and navigation for this repository |
-| [`bandit/`](bandit/README.md) | Bandit overview and detailed challenge walkthroughs |
-| [`linux-cheatsheet/`](linux-cheatsheet/README.md) | Linux command reference and compact Bandit answer key |
+---
 
-The detailed walkthroughs and cheat sheet are separate resources: one documents how I approached each challenge, while the other is a quick reference for solving similar problems.
+**Two resources, two purposes:** the Bandit section documents how I solved individual challenges, while the cheat sheet is the reference I can return to when solving new Linux problems.
