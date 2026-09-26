@@ -245,7 +245,7 @@ My troubleshooting order: read the error → check `pwd` and `ls -la` → verify
 
 ## Bandit Answer Key: Levels 0–15
 
-These are the 16 challenges I completed, Levels 0–15. Each heading shows the level solved and the next level unlocked; **Level 15 → 16** documents completing Level 15, not Level 16. These are compact command reminders based on my approved walkthroughs, not copies of their full explanations. No passwords or private-key contents are published. Each entry links to my fuller walkthrough in the neighbouring `bandit` folder.
+These are the 16 challenges I completed, Levels 0–15. Each heading shows the level solved and the next level unlocked. These are compact command reminders based on my approved walkthroughs, not copies of their full explanations. No passwords or private-key contents are published. Each entry links to my fuller walkthrough in the neighbouring `bandit` folder.
 
 ### Level 0 → 1 — SSH and read the file
 
@@ -441,4 +441,4 @@ openssl s_client -connect localhost:30001 -quiet -nocommands
 
 Why: The service requires TLS instead of an ordinary unencrypted TCP connection. Submit the current password interactively after connecting; an encrypted connection alone does not establish server identity.
 
-Scope: I completed Levels 0–15, including the Level 15 challenge that unlocks Level 16. I have not completed Level 16 or any later level. For the full reasoning, follow the linked Bandit walkthroughs.
+Scope: This sheet covers my completed Bandit Levels 0–15. For the full reasoning, follow the linked Bandit walkthroughs.
