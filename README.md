@@ -14,6 +14,3 @@ Each walkthrough explains the problem, the commands I used, why they worked and 
 
 My practical Linux command reference with reusable patterns, examples, explanations and a compact answer key for the 16 Bandit challenges I've completed.
 
----
-
-**Two resources, two purposes:** the Bandit section documents how I solved individual challenges, while the cheat sheet is the reference I can return to when solving new Linux problems.
